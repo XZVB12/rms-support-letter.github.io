@@ -1,6 +1,7 @@
 # An open letter in support of RMS.
 
 This README is available in:
+[🇿🇦](README_AF.md)
 [🇦🇱](README_AL.md)
 [🇦🇪](README_AR.md)
 [🇩🇪](README_DE.md)
@@ -26,7 +27,7 @@ This README is available in:
 [🇵🇭](README_TL.md)
 [🇹🇷](README_TR.md)
 [🇺🇦](README_UA.md)
-[🇻🇮](README_VI.md)
+[🇻🇳](README_VI.md)
 [🇨🇳](README_ZH-CN.md)
 [🇹🇼](README_ZH-TW.md)
 
@@ -58,8 +59,6 @@ Alternatively, fork and clone the repo, create the file `_data/signed/<username>
 If you want to support the letter **without using Github**, go here: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1, or send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) or [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 
 If you still require help via visual instructions, use [this](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) video.
-
-**All signatures will be processed within 12 hours at max - due to a huge volume of PRs**
 
 ## Chatrooms
 
